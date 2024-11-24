@@ -1,2 +1,2 @@
 # calculator
-Calculator using HTML and CSS
+A simple calculator using HTML and CSS
